@@ -1,6 +1,7 @@
 # Cli Tool to extract html content from a eml file
 
 ## Usage
+Use this command:
 
 
 ```bash
